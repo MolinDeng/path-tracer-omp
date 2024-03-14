@@ -19,6 +19,7 @@ make
 * RR (Russian Roulette)
 * Monte Carlo Integration
 * BVH Acceleration
+* Diffuse Material
 
 ## Results
 
