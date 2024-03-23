@@ -16,6 +16,7 @@ make
 
 * Multithreading using OpenMP
 * Ray Generation
+* Anti-Aliasing with Jittered Sampling
 * RR (Russian Roulette)
 * Monte Carlo Integration
 * BVH Acceleration
