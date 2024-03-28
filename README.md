@@ -25,9 +25,9 @@ make
 ## Results
 
 There are totally 12 threads on my machine, and the runtime is as follows: \
-SPP = 32 with runtime 18s (leftmost/upmost) \
-SPP = 128 with runtime 38s \
-SPP = 512 with runtime 156s (rightmost/downmost)
+SPP = 32 with runtime 14s (leftmost/upmost) \
+SPP = 128 with runtime 39s \
+SPP = 512 with runtime 147s (rightmost/downmost)
 
 <p align="center">
     <img src="misc/7_spp_32.png" style="height: 400px;"/> <img src="misc/7_spp_128.png" style="height: 400px;"/> <img src="misc/7_spp_512.png" style="height: 400px;"/>
